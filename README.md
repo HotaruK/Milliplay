@@ -1,6 +1,6 @@
 # Milliplay
 
-!App Image
+![App Image](app.JPG)
 
 ## What is this app?
 
